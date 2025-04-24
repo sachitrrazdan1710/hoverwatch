@@ -1,0 +1,4 @@
+pynput
+mss
+pywin32; platform_system == "Windows"
+
